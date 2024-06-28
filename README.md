@@ -1,14 +1,13 @@
 # PYTHON - POKEMON CHARACTER ANALYSIS
   Pokemon is a game created by Satoshi Tajiri and his colleague, Ken Sugimori in 1996, this game is quite popular with its unique characters.
-  Dataset yang saya gunakan berformat .csv (Comma Separated Values) yang berisi sekumpulan data mengenai statistik karakter di Game Pokemon,
-  beberapa informasi juga saya dapatkan dari https://www.pokemon.com/us sebagai bahan dasar untuk lebih memahami karakter Pokemon.
+  The dataset that I use is in .csv (Comma Separated Values) format which contains a collection of data regarding character statistics in the Pokemon Game,
+  I also got some information from https://www.pokemon.com/us as basic material to better understand Pokemon characters.
 
-  Terdapat 2 karakter yang ada pada Game Pokemon, karakter legendaris dan karakter biasa, masing-masing karakter memiliki jumlah dan tipe elemen yang berbeda-beda,
-  pada umumnya karakter yang memiliki statistik terbesar akan selalu menjadi yang terkuat, maka dari itu pada analisis kali ini akan berfokus pada karakter
-  legendaris.
+  There are 2 characters in the Pokemon Game, legendary characters and ordinary characters, each character has a different number and type of elements,
+  In general, the character who has the greatest statistics will always be the strongest, therefore this analysis will focus on character legendary.
 
-  Analisis mengenai karakter legendaris ini memberikan insight bagi pengguna yang masih awam dengan karakter legendaris baik itu dari statistik maupun tipe karakter.
-  Karakter yang diambil pada analisis ini dari Generasi 1 sampai 6.
+  This analysis of legendary characters provides insight for users who are still unfamiliar with legendary characters, both in terms of statistics and character type.
+  The characters taken in this analysis are from Generations 1 to 6.
   
   **Goals  :**
   1. Number of strongest Legendary Pokemon for each Generation.
