@@ -23,7 +23,7 @@
   3. By scatterplot, use 400 samples data : The biggest score does not always determine that a character is legendary
   4. Based on score level and character type: having 2 types is not always superior
   5. Use barplot, sorted data by highest score for each statistic : Even though they are superior in terms of attack, there are still characters who have higher defense scores
-  6. jfsdfjkd
+  6. Join column, count type values : The average type of legendary character is psychic
 
   **Advice  :**
   1. Even though the title 'Legendary' is more attractive, when facing opponents, it is better to pay attention to the score, element type, and weakness analysis.
