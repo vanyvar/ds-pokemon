@@ -1,4 +1,4 @@
-# PYTHON - POKEMON CHARACTER ANALYSIS
+# PYTHON - STATISTICAL ANALYSIS OF POKEMON CHARACTERS
   Pokemon is a game created by Satoshi Tajiri and his colleague, Ken Sugimori in 1996, this game is quite popular with its unique characters.
   The dataset that I use is in .csv (Comma Separated Values) format which contains a collection of data regarding character statistics in the Pokemon Game,
   I also got some information from https://www.pokemon.com/us as basic material to better understand Pokemon characters.
